@@ -4,7 +4,6 @@ This is my personal portfolio website where I showcase my work, skills, and proj
 
 ## 🚀 Features
 - Responsive design for all devices
-- Glassmorphism-style project and skills cards
 - Animated background with particle effects
 - Neon cursor trail effect
 - Smooth scroll navigation
@@ -18,7 +17,7 @@ This is my personal portfolio website where I showcase my work, skills, and proj
 - **Three.js Toys (Neon Cursor)**
 
 ## 🌍 Live Demo
-[Click Here](https://your-username.github.io/portfolio-website/) to view the live portfolio.
+[Click Here](https://devansh-bansal-ai.github.io/Portfolio/) to view the live portfolio.
 
 ## 📬 Contact
 - **Email:** devanshbansal212@gmail.com  
